@@ -9,6 +9,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
   "bundledDependencies": {
     "windows-drive-letters": "warlord0/windows-drive-letters#dev"
   }
